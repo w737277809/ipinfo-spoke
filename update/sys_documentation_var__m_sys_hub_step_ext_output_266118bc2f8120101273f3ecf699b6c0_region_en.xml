@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="region" label="Region" language="en" table="var__m_sys_hub_step_ext_output_266118bc2f8120101273f3ecf699b6c0">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <help/>
+            <hint/>
+            <label>Region</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_266118bc2f8120101273f3ecf699b6c0</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 05:35:05</sys_created_on>
+            <sys_id>2e6118bc2f8120101273f3ecf699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Region</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_544126_ipinfo_sp">4798eb2c2f0120101273f3ecf699b6da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">4798eb2c2f0120101273f3ecf699b6da</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_266118bc2f8120101273f3ecf699b6c0_region_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-10 05:35:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

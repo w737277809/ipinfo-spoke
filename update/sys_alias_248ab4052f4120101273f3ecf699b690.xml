@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_544126_ipinfo_sp.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo_Alias</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 03:14:31</sys_created_on>
+        <sys_id>248ab4052f4120101273f3ecf699b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_544126_ipinfo_sp.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_544126_ipinfo_sp">4798eb2c2f0120101273f3ecf699b6da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">4798eb2c2f0120101273f3ecf699b6da</sys_scope>
+        <sys_update_name>sys_alias_248ab4052f4120101273f3ecf699b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 03:14:31</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
